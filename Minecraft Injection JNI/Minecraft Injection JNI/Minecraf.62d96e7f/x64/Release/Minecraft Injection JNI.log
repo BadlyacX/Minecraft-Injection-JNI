@@ -1,0 +1,11 @@
+﻿  Cheat.cpp
+  dllmain.cpp
+dllmain.obj : warning LNK4006: "class cheat ct" (?ct@@3Vcheat@@A) 已經定義於 Cheat.obj 中，忽略第二個定義
+D:\C++ project\Minecraft Injection JNI\Minecraft Injection JNI\x64\Release\Minecraft Injection JNI.dll : warning LNK4088: 由於 /FORCE 選項，所以映像已經產生，映像可能無法執行
+  正在產生程式碼
+  Previous IPDB not found, fall back to full compilation.
+  All 48 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成程式碼產生
+* CIL library *(* CIL module *) : warning LNK4006: "class cheat ct" (?ct@@3Vcheat@@A) 已經定義於 * CIL library *(* CIL module *) 中，忽略第二個定義
+D:\C++ project\Minecraft Injection JNI\Minecraft Injection JNI\x64\Release\Minecraft Injection JNI.dll : warning LNK4088: 由於 /FORCE 選項，所以映像已經產生，映像可能無法執行
+  Minecraft Injection JNI.vcxproj -> D:\C++ project\Minecraft Injection JNI\Minecraft Injection JNI\x64\Release\Minecraft Injection JNI.dll

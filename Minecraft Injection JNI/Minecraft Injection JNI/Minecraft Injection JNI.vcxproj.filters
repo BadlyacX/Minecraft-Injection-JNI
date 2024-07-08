@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="來源檔案">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="dllmain.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+    <ClCompile Include="Cheat.cpp">
+      <Filter>來源檔案</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="JNI\classfile_constants.h" />
+    <ClInclude Include="JNI\jawt.h" />
+    <ClInclude Include="JNI\jawt_md.h" />
+    <ClInclude Include="JNI\jdwpTransport.h" />
+    <ClInclude Include="JNI\jni.h" />
+    <ClInclude Include="JNI\jni_md.h" />
+    <ClInclude Include="JNI\jvmti.h" />
+    <ClInclude Include="JNI\jvmticmlr.h" />
+    <ClInclude Include="Java.h" />
+    <ClInclude Include="Cheat.h" />
+  </ItemGroup>
+</Project>
